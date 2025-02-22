@@ -1,0 +1,10 @@
+Tshirt 70 80.00
+Jeans 10 24.99
+Jacket 5 49.99
+Shoes 8 39.99
+Hat 20 14.99
+Socks 30 4.99
+Sweater 7 29.99
+Shorts 10 19.99
+Scarf 21 9.49
+Gloves 21 12.99
